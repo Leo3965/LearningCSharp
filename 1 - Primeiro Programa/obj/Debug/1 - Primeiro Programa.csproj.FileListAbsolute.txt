@@ -1,0 +1,7 @@
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\bin\Debug\1 - Primeiro Programa.exe.config
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\bin\Debug\1 - Primeiro Programa.exe
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\bin\Debug\1 - Primeiro Programa.pdb
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\obj\Debug\1 - Primeiro Programa.csprojAssemblyReference.cache
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\obj\Debug\1 - Primeiro Programa.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\obj\Debug\1 - Primeiro Programa.exe
+C:\Workspace\LearningCSharp\1 - Primeiro Programa\obj\Debug\1 - Primeiro Programa.pdb

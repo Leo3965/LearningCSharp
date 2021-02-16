@@ -1,0 +1,6 @@
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\bin\Debug\2 - Criando varariaveis.exe.config
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\bin\Debug\2 - Criando varariaveis.exe
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\bin\Debug\2 - Criando varariaveis.pdb
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\obj\Debug\2 - Criando varariaveis.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\obj\Debug\2 - Criando varariaveis.exe
+C:\Workspace\LearningCSharp\2 - Criando varariaveis\obj\Debug\2 - Criando varariaveis.pdb

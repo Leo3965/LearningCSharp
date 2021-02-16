@@ -1,0 +1,6 @@
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\bin\Debug\3 - Ponto Flutuante.exe.config
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\bin\Debug\3 - Ponto Flutuante.exe
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\bin\Debug\3 - Ponto Flutuante.pdb
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\obj\Debug\3 - Ponto Flutuante.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\obj\Debug\3 - Ponto Flutuante.exe
+C:\Workspace\LearningCSharp\3 - Ponto Flutuante\obj\Debug\3 - Ponto Flutuante.pdb
