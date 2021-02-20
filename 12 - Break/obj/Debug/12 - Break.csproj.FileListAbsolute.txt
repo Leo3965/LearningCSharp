@@ -1,0 +1,6 @@
+C:\Workspace\LearningCSharp\12 - Break\bin\Debug\12 - Break.exe.config
+C:\Workspace\LearningCSharp\12 - Break\bin\Debug\12 - Break.exe
+C:\Workspace\LearningCSharp\12 - Break\bin\Debug\12 - Break.pdb
+C:\Workspace\LearningCSharp\12 - Break\obj\Debug\12 - Break.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\12 - Break\obj\Debug\12 - Break.exe
+C:\Workspace\LearningCSharp\12 - Break\obj\Debug\12 - Break.pdb

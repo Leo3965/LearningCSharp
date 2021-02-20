@@ -1,0 +1,6 @@
+C:\Workspace\LearningCSharp\9 - Escopo\bin\Debug\9 - Escopo.exe.config
+C:\Workspace\LearningCSharp\9 - Escopo\bin\Debug\9 - Escopo.exe
+C:\Workspace\LearningCSharp\9 - Escopo\bin\Debug\9 - Escopo.pdb
+C:\Workspace\LearningCSharp\9 - Escopo\obj\Debug\9 - Escopo.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\9 - Escopo\obj\Debug\9 - Escopo.exe
+C:\Workspace\LearningCSharp\9 - Escopo\obj\Debug\9 - Escopo.pdb
