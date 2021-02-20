@@ -1,0 +1,7 @@
+C:\Workspace\LearningCSharp\ByteBankHeranca\bin\Debug\ByteBankHeranca.exe.config
+C:\Workspace\LearningCSharp\ByteBankHeranca\bin\Debug\ByteBankHeranca.exe
+C:\Workspace\LearningCSharp\ByteBankHeranca\bin\Debug\ByteBankHeranca.pdb
+C:\Workspace\LearningCSharp\ByteBankHeranca\obj\Debug\ByteBankHeranca.csprojAssemblyReference.cache
+C:\Workspace\LearningCSharp\ByteBankHeranca\obj\Debug\ByteBankHeranca.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\ByteBankHeranca\obj\Debug\ByteBankHeranca.exe
+C:\Workspace\LearningCSharp\ByteBankHeranca\obj\Debug\ByteBankHeranca.pdb

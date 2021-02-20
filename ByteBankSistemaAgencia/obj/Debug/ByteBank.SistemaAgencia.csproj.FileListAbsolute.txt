@@ -1,0 +1,10 @@
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.exe.config
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.exe
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.pdb
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.exe
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.pdb
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Workspace\LearningCSharp\ByteBankSistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
