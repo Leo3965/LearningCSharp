@@ -28,6 +28,10 @@ namespace ByteBank.SistemaAgencia
             //contas.Sort(new ComparadorConta());
             contas.OrderBy(conta => conta.Saldo);
 
+            var contasOrdenadas = contas
+                .Where(conta => conta != null)
+                .OrderBy(conta => conta.Numero); 
+
             foreach (var conta in contas)
             {
                 Console.WriteLine($"Conta número {conta.Numero}, ag. {conta.Agencia}");
