@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressoesRegulares", "ExpressoesRegulares.csproj", "{117963E0-2850-4A19-94F7-F89FF7EC9486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressoes2", "..\Expressoes2\Expressoes2.csproj", "{D169853B-917E-402D-84E5-37E40321DE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117963E0-2850-4A19-94F7-F89FF7EC9486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117963E0-2850-4A19-94F7-F89FF7EC9486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117963E0-2850-4A19-94F7-F89FF7EC9486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117963E0-2850-4A19-94F7-F89FF7EC9486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D169853B-917E-402D-84E5-37E40321DE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D169853B-917E-402D-84E5-37E40321DE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D169853B-917E-402D-84E5-37E40321DE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D169853B-917E-402D-84E5-37E40321DE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4418E121-68DD-4D6E-AE25-FCB9C5E5D021}
+	EndGlobalSection
+EndGlobal

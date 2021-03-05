@@ -3,3 +3,4 @@ C:\Workspace\LearningCSharp\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
 C:\Workspace\LearningCSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\Workspace\LearningCSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
 C:\Workspace\LearningCSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Workspace\LearningCSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache

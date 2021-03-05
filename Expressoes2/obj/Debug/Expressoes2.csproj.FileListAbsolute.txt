@@ -1,0 +1,6 @@
+C:\Workspace\LearningCSharp\Expressoes2\bin\Debug\Expressoes2.exe.config
+C:\Workspace\LearningCSharp\Expressoes2\bin\Debug\Expressoes2.exe
+C:\Workspace\LearningCSharp\Expressoes2\bin\Debug\Expressoes2.pdb
+C:\Workspace\LearningCSharp\Expressoes2\obj\Debug\Expressoes2.csproj.CoreCompileInputs.cache
+C:\Workspace\LearningCSharp\Expressoes2\obj\Debug\Expressoes2.exe
+C:\Workspace\LearningCSharp\Expressoes2\obj\Debug\Expressoes2.pdb
