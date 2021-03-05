@@ -11,7 +11,7 @@ namespace ByteBankImportacaoExportacao
     { 
         static void Main(string[] args) 
         {
-            var conta new = ContaCorrente();
+            var conta = new ContaCorrente();
             Console.ReadLine();
         }
     }
