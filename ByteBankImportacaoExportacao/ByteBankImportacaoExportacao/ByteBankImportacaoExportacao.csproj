@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CriandoArquivo.cs" />
+    <Compile Include="CriarContaComWriter.cs" />
+    <Compile Include="LidandoComStream.cs" />
     <Compile Include="Modelos\Cliente.cs" />
     <Compile Include="Modelos\ContaCorrente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsandoBBdeStream.cs" />
+    <Compile Include="UsarStreamDeEntrada.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
